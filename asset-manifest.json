@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-traveler/static/css/main.518ce94c.chunk.css",
+    "main.js": "/react-traveler/static/js/main.c67ffd6a.chunk.js",
+    "main.js.map": "/react-traveler/static/js/main.c67ffd6a.chunk.js.map",
+    "runtime-main.js": "/react-traveler/static/js/runtime-main.c2f1cc6b.js",
+    "runtime-main.js.map": "/react-traveler/static/js/runtime-main.c2f1cc6b.js.map",
+    "static/js/2.570a7535.chunk.js": "/react-traveler/static/js/2.570a7535.chunk.js",
+    "static/js/2.570a7535.chunk.js.map": "/react-traveler/static/js/2.570a7535.chunk.js.map",
+    "index.html": "/react-traveler/index.html",
+    "static/css/main.518ce94c.chunk.css.map": "/react-traveler/static/css/main.518ce94c.chunk.css.map",
+    "static/js/2.570a7535.chunk.js.LICENSE.txt": "/react-traveler/static/js/2.570a7535.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2f1cc6b.js",
+    "static/js/2.570a7535.chunk.js",
+    "static/css/main.518ce94c.chunk.css",
+    "static/js/main.c67ffd6a.chunk.js"
+  ]
+}
