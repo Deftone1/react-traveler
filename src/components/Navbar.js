@@ -17,8 +17,8 @@ function Navbar() {
       setButton(true);
     }
   };
-  
-// UseEffect 
+
+
   useEffect(() => {
     showButton()
   }, []);
