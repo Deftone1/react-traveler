@@ -12,7 +12,6 @@ function Cards() {
         <div className="cards__wrapper">
           <ul className="cards__items">
             <CardItem
-            // Sean helped me get this working!
               src={img9}
               text="Explore the hidden waterfall deep inside the Amazon Jungle"
               label="Adventure"
